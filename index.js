@@ -1,1 +1,2 @@
-let q = document.querySelector(".g")
+let q = document.querySelector(".q")
+let g = document.querySelector(".g")
