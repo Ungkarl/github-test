@@ -1,0 +1,1 @@
+let q = document.querySelector(".g")
